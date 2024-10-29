@@ -1,0 +1,2 @@
+# eduard
+bot para whatssap
